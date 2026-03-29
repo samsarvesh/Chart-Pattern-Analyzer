@@ -8,6 +8,8 @@ ________________________________________________________________________________
 
 The Chart Pattern Analyzer leverages the Google Gemini 1.5 Pro Vision model to "see" and interpret financial charts. Whether you're a beginner learning patterns or a pro looking for a second opinion, this tool provides instant, data-driven insights from your chart screenshots.
 
+______________________________________________________________________________________________________________
+
 **✨ Key Features:**
 
 **AI Chart Analysis:** Upload any chart screenshot (Forex, Crypto, Stocks) to get a detailed breakdown of current market structures.
@@ -17,6 +19,8 @@ The Chart Pattern Analyzer leverages the Google Gemini 1.5 Pro Vision model to "
 **Pattern Library:** A built-in educational resource with visual guides for common bullish and bearish patterns.
 **Responsive Design:** Optimized for both desktop and mobile trading environments.
 
+______________________________________________________________________________________________________________
+
 **🛠️ Tech Stack:**
 
 **Frontend:** React 18 + Vite
@@ -25,12 +29,7 @@ The Chart Pattern Analyzer leverages the Google Gemini 1.5 Pro Vision model to "
 **Icons:** Lucide React
 **AI Engine:** Google Generative AI (Gemini 1.5 Pro)
 
-**📦 Getting Started**
-
-Prerequisites
-Node.js (v18 or higher)
-npm or yarn
-A Google Gemini API Key
+______________________________________________________________________________________________________________
 
 **📖 How to Use**
 
@@ -38,6 +37,8 @@ A Google Gemini API Key
 **Upload:** Drag and drop the image into the Chart Analyzer tab.
 **Analyze:** Click "Analyze Chart" and wait for the AI to process the visual data.
 **Review:** Study the generated report, including the identified patterns, trend analysis, and suggested trade setup.
+
+______________________________________________________________________________________________________________
 
 **⚠️ Disclaimer:**
 *This tool is for educational and informational purposes only. Trading involves significant risk. Always perform your own due diligence and never risk more than you can afford to lose. The AI analysis is a tool, not a guarantee of market movement.*
