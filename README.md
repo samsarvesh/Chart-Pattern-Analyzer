@@ -12,12 +12,17 @@ ________________________________________________________________________________
 
 **✨ Key Features:**
 
-  **AI Chart Analysis:** Upload any chart screenshot (Forex, Crypto, Stocks) to get a detailed breakdown of current market structures.
-  **Pattern Recognition:** Automatically detects classic patterns like Head & Shoulders, Double Tops, Triangles, and Flags.
-  **Technical Indicators:** Identifies RSI divergences, Moving Average crossovers, and Volume profiles.
-  **Trading Signals: **Provides actionable "Buy," "Sell," or "Hold" recommendations with suggested Stop Loss and Take Profit levels.
-  **Pattern Library:** A built-in educational resource with visual guides for common bullish and bearish patterns.
-  **Responsive Design:** Optimized for both desktop and mobile trading environments.
+ **AI Chart Analysis:** Upload any chart screenshot (Forex, Crypto, Stocks) to get a detailed breakdown of current market structures.
+ 
+ **Pattern Recognition:** Automatically detects classic patterns like Head & Shoulders, Double Tops, Triangles, and Flags.
+ 
+ **Technical Indicators:** Identifies RSI divergences, Moving Average crossovers, and Volume profiles.
+ 
+ **Trading Signals: **Provides actionable "Buy," "Sell," or "Hold" recommendations with suggested Stop Loss and Take Profit levels.
+ 
+ **Pattern Library:** A built-in educational resource with visual guides for common bullish and bearish patterns.
+ 
+ **Responsive Design:** Optimized for both desktop and mobile trading environments.
 
 ______________________________________________________________________________________________________________
 
