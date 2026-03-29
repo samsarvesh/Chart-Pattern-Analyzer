@@ -18,7 +18,7 @@ ________________________________________________________________________________
  
  **Technical Indicators:** Identifies RSI divergences, Moving Average crossovers, and Volume profiles.
  
- **Trading Signals: **Provides actionable "Buy," "Sell," or "Hold" recommendations with suggested Stop Loss and Take Profit levels.
+ **Trading Signals:** Provides actionable "Buy," "Sell," or "Hold" recommendations with suggested Stop Loss and Take Profit levels.
  
  **Pattern Library:** A built-in educational resource with visual guides for common bullish and bearish patterns.
  
@@ -29,9 +29,13 @@ ________________________________________________________________________________
 **🛠️ Tech Stack:**
 
 **Frontend:** React 18 + Vite
+
 **Styling:** Tailwind CSS (Utility-first CSS)
+
 **Animations:** Framer Motion
+
 **Icons:** Lucide React
+
 **AI Engine:** Google Generative AI (Gemini 1.5 Pro)
 
 ______________________________________________________________________________________________________________
@@ -39,8 +43,11 @@ ________________________________________________________________________________
 **📖 How to Use**
 
 **Capture:** Take a clear screenshot of your trading chart (ensure price action and key indicators are visible).
+
 **Upload:** Drag and drop the image into the Chart Analyzer tab.
+
 **Analyze:** Click "Analyze Chart" and wait for the AI to process the visual data.
+
 **Review:** Study the generated report, including the identified patterns, trend analysis, and suggested trade setup.
 
 ______________________________________________________________________________________________________________
