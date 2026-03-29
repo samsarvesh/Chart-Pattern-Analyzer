@@ -1,20 +1,20 @@
-Chart Pattern Risk Analyzer
-Professional vision-based trading pattern detection engine.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-⚡ Quick Start
-Install Python Deps: pip install opencv-python numpy mss ultralytics
-Run Local Engine: python analyzer.py
-Launch Web Dashboard: npm run dev
+# Run and deploy your AI Studio app
 
-🛠 Tech
-AI: YOLOv8x + CNN
-Vision: OpenCV + CLAHE
-Web: React + TypeScript + Tailwind
+This contains everything you need to run your app locally.
 
-🎯 Core Patterns
-Double Top/Bottom
-Head & Shoulders
-Rising/Falling Wedges
-Bull/Bear Flags
+View your app in AI Studio: https://ai.studio/apps/8ab0d052-4dfc-4780-b79e-91cc0320a1f3
 
-Disclaimer: For informational purposes only. Trade at your own risk.
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
